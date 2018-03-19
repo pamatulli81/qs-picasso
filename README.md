@@ -7,7 +7,7 @@ The extension is already using some interesting capabilities like:
 * Filtering capability on
 - Here note that the "Filter by" property should return 1 for applying a valid filter to the hypercube rows. You can use Qlik Advanced Expression capability to filter the hypercube based on your condigion.
 * Layout settings:
-- Picasso Chart => Can be extended
+** Picasso Chart => Can be extended
 - Number Format Y-Axis
 - Line Color
 - Point Color
