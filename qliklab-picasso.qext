@@ -1,5 +1,5 @@
 {
-	"name": "Qliklab Picasso Demo",
+	"name": "Qliklab Picasso",
 	"description": "Charts based on the Picasso Library",
 	"type": "visualization",
 	"version": "1.0.0",
@@ -9,7 +9,7 @@
 	"homepage": "http://www.qliklab.ch",
 	"email":	"qliklab2017@gmail.com",
 	"keywords": "qlik-sense, visualization",	
-	"license": "MIT.",
+	"license": "MIT License",
 	"repository": "",
 	"dependencies": {
 		"qlik-sense": ">=3.0.x"
