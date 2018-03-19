@@ -7,13 +7,13 @@ The extension is already using some interesting capabilities like:
 * Filtering capability on
 - Here note that the "Filter by" property should return 1 for applying a valid filter to the hypercube rows. You can use Qlik Advanced Expression capability to filter the hypercube based on your condigion.
 * Layout settings:
-** Picasso Chart => Can be extended
-- Number Format Y-Axis
-- Line Color
-- Point Color
-- Line Method
-- Tick points
-- Show Tooltip
+ Picasso Chart => Can be extended
+-> Number Format Y-Axis
+-> Line Color
+-> Point Color
+-> Line Method
+-> Tick points
+-> Show Tooltip
 
 # Installation steps
 Download this extension package as a ZIP and extract it to your Qlik Sense Desktop extension folder or, if on a Sense Server, import it with the QMC
