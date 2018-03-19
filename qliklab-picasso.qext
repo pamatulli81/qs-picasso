@@ -1,0 +1,17 @@
+{
+	"name": "Qliklab Picasso Demo",
+	"description": "Charts based on the Picasso Library",
+	"type": "visualization",
+	"version": "1.0.0",
+	"preview": "preview.png",
+	"author": "Patric Amatulli",
+	"company": "",
+	"homepage": "http://www.qliklab.ch",
+	"email":	"qliklab2017@gmail.com",
+	"keywords": "qlik-sense, visualization",	
+	"license": "MIT.",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
