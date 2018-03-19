@@ -16,7 +16,12 @@ The extension is already using some interesting capabilities like:
   - Show Tooltip
 
 # Installation steps
-Download this extension package as a ZIP and extract it to your Qlik Sense Desktop extension folder or, if on a Sense Server, import it with the QMC
+Download this extension package as a ZIP and depeding on the environment:
+* Extract it to your Qlik Sense Desktop extension folder
+* Import it into the QMC in the Extension section on the Qliksense Server
+
+Note:
+The repository includes a demo app with a working example of the extension.
 
 ### Resources:
 * https://picassojs.com
