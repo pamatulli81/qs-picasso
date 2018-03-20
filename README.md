@@ -4,8 +4,8 @@ This repository shows a Qliksense Extension based on the open source Picasso.js 
 The extension is already using some interesting capabilities like:
 * Custom componentes (tooltip)
 * Qlik Selection feature (using the q-plugin)
-* Filtering capability on
-- Here note that the "Filter by" property should return 1 for applying a valid filter to the hypercube rows. You can use Qlik Advanced Expression capability to filter the hypercube based on your condigion.
+* Filtering capability
+  - Note: the "Filter by" property should return 1 for applying a valid filter to the hypercube rows. You can use Qlik Advanced Expression capability to filter the hypercube based on your condition.
 * Layout settings:
   - Picasso Chart  => Can be extended by extending the extension
   - Number Format Y-Axis
